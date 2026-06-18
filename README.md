@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abdullah 👋
+# Hi, I'm Shaik Abdullah 👋
 
 **Final-year AI/ML engineer · ML Intern @ Cognifyz · Building systems that actually work**
 
