@@ -2,7 +2,11 @@
 
 # Hi, I'm Shaik Abdullah 👋
 
-**Final-year AI/ML engineer · ML Intern @ Cognifyz · Building systems that actually work**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final-Year+AI%2FML+Engineer;ServiceNow+CSA+%26+CAD+Certified;Full-Stack+Developer;Learning.+Building.+Improving.)](https://git.io/typing-svg)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikabdul4787)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikabd04@gmail.com)
