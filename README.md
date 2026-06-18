@@ -39,17 +39,23 @@ Currently interning at Cognifyz IT Solutions, building and evaluating supervised
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C244?style=flat-square&logo=servicenow&logoColor=white)
+## Skills
 
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,sql)](https://skillicons.dev)
+
+**ML / AI & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,numpy)](https://skillicons.dev)
+
+**Web & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=django,html,css,bootstrap,fastapi)](https://skillicons.dev)
+
+**Tools & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,vscode,arduino)](https://skillicons.dev)
 ---
 
 ## GitHub stats
