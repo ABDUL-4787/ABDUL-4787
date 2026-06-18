@@ -41,23 +41,28 @@ Currently interning at Cognifyz IT Solutions, building and evaluating supervised
 
 ## Skills
 
+## Skills
+
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp&titles=true)](https://skillicons.dev)
 
 **ML / AI & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,tensorflow&titles=true)](https://skillicons.dev)
+
+**LLMs & RAG**
+
+[![My Skills](https://skillicons.dev/icons?i=openai&titles=true)](https://skillicons.dev)
+`LangChain` `RAG` `Prompt Engineering` `HuggingFace`
 
 **Web & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=django,html,css,bootstrap,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,html,css,bootstrap,fastapi&titles=true)](https://skillicons.dev)
 
 **Tools & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,azure,vscode,arduino)](https://skillicons.dev)
----
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,vscode,arduino&titles=true)](https://skillicons.dev)
 ## GitHub stats
 
 <div align="center">
